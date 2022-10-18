@@ -1,9 +1,9 @@
 <h1>Google Trends - Interest Over Time</h1>
-https://google-trendsapi.herokuapp.com/api/interest-over-time/blockchain
-<br/>https://google-trendsapi.herokuapp.com/api/interest-over-time-past12M/blockchain
-<br/>https://google-trendsapi.herokuapp.com/api/interest-over-time-customDates/blockchain/2019/09/01/2021/09/01
+https://us-central1-weeklychrisdemo.cloudfunctions.net/interestOverTime?key=dog
+<br/>https://us-central1-weeklychrisdemo.cloudfunctions.net/interestByRegionPast12M?key=blockchain
 
 <h1>Google Trends - Interest By Region</h1>
-https://google-trendsapi.herokuapp.com/api/interest-by-region/blockchain
-<br/>https://google-trendsapi.herokuapp.com/api/interest-by-region-past12M/blockchain
-<br/>https://google-trendsapi.herokuapp.com/api/interest-by-region-customDates/blockchain/2019/09/01/2021/09/01
+https://us-central1-weeklychrisdemo.cloudfunctions.net/interestByRegion?key=dog
+
+<h1>Google Trends - Compare</h1>
+https://us-central1-weeklychrisdemo.cloudfunctions.net/trendAverages?key=cat,dog,bird
